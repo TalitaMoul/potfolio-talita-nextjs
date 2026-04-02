@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:api.github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(curl -s https://raw.githubusercontent.com/TalitaMoul/portifolio-talita-react/main/src/components/Footer.tsx)",
+      "Bash(gh api:*)",
+      "Bash(curl -s \"https://raw.githubusercontent.com/TalitaMoul/portifolio-talita-react/main/src/components/Header.tsx\")",
+      "Bash(curl -s \"https://raw.githubusercontent.com/TalitaMoul/portifolio-talita-react/main/src/pages/PetsAlbum.tsx\")"
+    ]
+  }
+}
