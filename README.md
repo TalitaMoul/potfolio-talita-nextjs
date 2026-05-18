@@ -24,7 +24,7 @@ bash# Clone o repositório
 `npm install`
 
 ## Inicie o servidor de desenvolvimento
-`npm run dev`
+`npm run dev`<br>
 Acesse *http://localhost:3000* no navegador.
 
 ## Autor
