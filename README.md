@@ -6,12 +6,11 @@ Portfólio profissional desenvolvido com **Next.js** e **TypeScript**, criado pa
 Aplicação construída com foco em performance, usabilidade e identidade visual própria. O portfólio reúne projetos, habilidades técnicas e informações de contato em uma interface responsiva e moderna.
 
 ## Tecnologias
-<ul>
-  <li> **Next.js** — framework React com SSR e otimização de performance</li>
-  <li> **TypeScript** — tipagem estática para maior confiabilidade do código</li>
-  <li> **React.js** — componentização da interface</li> 
-  <li> **CSS / Tailwind CSS** — estilização responsiva</li>
-</ul>
+
+- **Next.js** — framework React com SSR e otimização de performance
+- **TypeScript** — tipagem estática para maior confiabilidade do código
+- **React.js** — componentização da interface
+- **CSS / Tailwind CSS** — estilização responsiva
 
 
 ## Como rodar localmente
