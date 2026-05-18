@@ -7,10 +7,10 @@ Aplicação construída com foco em performance, usabilidade e identidade visual
 
 ## Tecnologias
 <ul>
-  <li>Next.js — framework React com SSR e otimização de performance</li>
-  <li>TypeScript — tipagem estática para maior confiabilidade do código</li>
-  <li>React.js — componentização da interface</li> 
-  <li>CSS / Tailwind CSS — estilização responsiva</li>
+  <li>*Next.js* — framework React com SSR e otimização de performance</li>
+  <li>*TypeScript* — tipagem estática para maior confiabilidade do código</li>
+  <li>*React.js* — componentização da interface</li> 
+  <li>*CSS / Tailwind CSS* — estilização responsiva</li>
 </ul>
 
 
